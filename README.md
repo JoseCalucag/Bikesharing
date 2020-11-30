@@ -28,5 +28,5 @@ Using the data, here are some of the key points that were visualized:
 
 You can see the visualizations [here](https://public.tableau.com/profile/jose.calucag#!/vizhome/NYC_Citibike_Challenge_16066928250250/CitiBikeNYCData?publish=yes).
 
-<h2> Summary </h2>
+<h2> Summary </h2><br>
 With an average Yelp review of 3.6 out of 5 stars, there are noted flaws noted about Des Moines transit system (DART). Average weight times of 20-40 minutes and some areas too far out for most transit lines, Des Moines residents could use an alternative to get around the city. However, looking at a summer month shouldn't be the end all. I would also recommend to see if there is any data for the summer months to see if this business is seasonal or it can deal keep afloat all year around. Secondly, it would be beneficial to see data from Des Moines residents that would actually use the bike sharing service so, once initiated, Citibike can place the stations in proximity to customers that would use them.
